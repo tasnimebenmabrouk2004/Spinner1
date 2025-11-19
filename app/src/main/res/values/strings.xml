@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spinner1</string>
+    <string-array name="liste_pays">
+        <item>tunisie</item>
+        <item>algerie</item>
+        <item>italie</item>
+    </string-array>
+</resources>
